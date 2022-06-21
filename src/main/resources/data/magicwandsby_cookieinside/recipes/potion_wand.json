@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #M",
+        "UE#",
+        "/K "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:netherite_scrap"
+        },
+        "M": {
+            "item": "magicwandsby_cookieinside:fire_gem"
+        },
+        "U": {
+            "item": "magicwandsby_cookieinside:aqua_gem"
+        },
+        "E": {
+            "item": "magicwandsby_cookieinside:magic_orb"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "K": {
+            "item": "magicwandsby_cookieinside:ice_gem"
+        }
+    },
+    "result": {
+        "item": "magicwandsby_cookieinside:potion_wand",
+        "count": 1
+    }
+}

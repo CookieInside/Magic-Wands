@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#MB",
+        "ENR",
+        "gYg"
+    ],
+    "key": {
+        "#": {
+            "item": "magicwandsby_cookieinside:jungle_gem"
+        },
+        "M": {
+            "item": "magicwandsby_cookieinside:fire_gem"
+        },
+        "B": {
+            "item": "magicwandsby_cookieinside:aqua_gem"
+        },
+        "E": {
+            "item": "magicwandsby_cookieinside:ice_gem"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "R": {
+            "item": "magicwandsby_cookieinside:desert_gem"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "Y": {
+            "item": "minecraft:netherite_scrap"
+        }
+    },
+    "result": {
+        "item": "magicwandsby_cookieinside:magic_orb",
+        "count": 1
+    }
+}

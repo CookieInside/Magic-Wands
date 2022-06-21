@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #M",
+        " D#",
+        "/  "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:netherite_scrap"
+        },
+        "M": {
+            "item": "magicwandsby_cookieinside:desert_gem"
+        },
+        "D": {
+            "item": "magicwandsby_cookieinside:magic_orb"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "magicwandsby_cookieinside:defense_wand",
+        "count": 1
+    }
+}

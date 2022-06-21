@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #M",
+        " G#",
+        "/  "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:netherite_scrap"
+        },
+        "M": {
+            "item": "magicwandsby_cookieinside:jungle_gem"
+        },
+        "G": {
+            "item": "magicwandsby_cookieinside:magic_orb"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "magicwandsby_cookieinside:lightning_wand",
+        "count": 1
+    }
+}

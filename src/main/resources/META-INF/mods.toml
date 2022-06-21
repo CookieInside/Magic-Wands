@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+
+[[mods]]
+modId="magicwandsby_cookieinside"
+version="1.0"
+displayName="Wands by CookieInside"
+credits="I dont care about my credits"
+authors="CookieInside"
+description='''
+howdy
+
+This mod adds Wands to Minecraft for example you can summon mobs with them.
+
+PS: I would like to apologize in advance for the textures, art has never been my forte. xD
+'''

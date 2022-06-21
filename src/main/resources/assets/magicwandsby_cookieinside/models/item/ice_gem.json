@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "magicwandsby_cookieinside:items/ice_gem"   
+    }
+}
